@@ -45,5 +45,5 @@ https://workgs676-afk.github.io/interpreter-python-/
 - Better error handling
 - File save/load support
 - Support for Python libraries via Pyodide
-- Mobile-friendly UI
+
 
